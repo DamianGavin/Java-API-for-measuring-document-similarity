@@ -6,5 +6,5 @@ Due to unforseen circumstances over Christmas I didn't quite get this project co
 
 My API consists of 8 classes, varying from a simple runner class to a menu, parser, consumer and shingle.
 
-I have included a screenshot of my UML diagram in my submission and also a Jar file.
+I have included a screenshot of my UML diagram in my submission and also a Jar file which is located in the bin folder..
 I have pushed this project to GITHUB and the link to the repository is: https://github.com/DamianGavin/Java-API-for-measuring-document-similarity.git
